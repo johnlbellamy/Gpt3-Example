@@ -4,5 +4,7 @@
 
 ## For example questions, see the logs file
 
-## 1) pip install -r requirements
-## 2) python example.py "Who is the coolest person alive?"
+## 1) python -m venv .openai
+## 2) source .openai/bin/activate  
+## 3) pip install -r requirements
+## 4) python example.py "Who is the coolest person alive?"
